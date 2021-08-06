@@ -1,7 +1,7 @@
 ---
 title: Our Research
 layout: template
-filename: research
+filename: index
 --- 
 
 Here is our research 
