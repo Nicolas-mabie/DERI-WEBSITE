@@ -1,6 +1,6 @@
 # DERI RESEARCH PROJECT
 
-## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
+## Created by ......
 
 #### What is patrickandfrantonarethebestninjas?
 This project aims to demonstrate without a doubt why Patrick and Franton are the best ninjas. 
