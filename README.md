@@ -1,4 +1,4 @@
-# patrickandfrantonarethebestninjas
+# DERI RESEARCH PROJECT
 
 ## Created by [Patrick Huston](http://www.patrickhuston.com/) and [Franton Lin](frantonlin.com)
 
