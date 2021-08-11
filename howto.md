@@ -2,6 +2,7 @@
 title: How To
 layout: template
 filename: research
+class: btn
 --- 
 
 # How to Create a Multi-page Website using Github Pages
