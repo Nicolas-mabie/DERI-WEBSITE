@@ -2,6 +2,7 @@
 title: Our Story
 layout: template
 filename: story
+class: btn
 --- 
 
 # Our Story
