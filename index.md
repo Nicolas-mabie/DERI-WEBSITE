@@ -1,5 +1,5 @@
 ---
-title: VCU RESEARCH PROJECT!
+title: VCU RESEARCH PROJECt 
 layout: template
 filename: index
 --- 
