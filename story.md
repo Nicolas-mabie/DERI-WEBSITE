@@ -4,6 +4,7 @@ layout: template
 filename: story
 class: btn
 --- 
+<a href= {{ story.md }} class="btn">{{ story }}</a>
 
 # Our Story
 
