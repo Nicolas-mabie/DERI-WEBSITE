@@ -1,5 +1,5 @@
 ---
-title: pafatbn forever!
+title: VCU RESEARCH PROJECT!
 layout: template
 filename: index
 --- 
