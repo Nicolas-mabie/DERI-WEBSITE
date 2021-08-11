@@ -1,5 +1,5 @@
 ---
-title: VCU RESEARCH PROJECt 
+title: VCU RESEARCH PROJECT APPLES 
 layout: template
 filename: index
 --- 
