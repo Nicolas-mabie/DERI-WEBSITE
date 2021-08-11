@@ -1,7 +1,7 @@
 ---
 title: How To
 layout: template
-filename: howto
+filename: research
 --- 
 
 # How to Create a Multi-page Website using Github Pages
